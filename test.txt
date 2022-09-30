@@ -1,0 +1,13 @@
+10	cat
+20	dog
+30	d12
+1	aaaaa
+2	abbbb
+3	bbbbb
+4	abcde
+5	ccccc
+6	cccde
+7	aabcd
+8	abccd
+9	aabbc
+10	abdda
