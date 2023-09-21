@@ -10,4 +10,4 @@ Our project is inspired by Wordle game created by New York Times and we would li
 <img width="1179" alt="Screenshot 2023-09-20 at 6 54 15 PM" src="https://github.com/zhihuizhang0625/WordleGame-Clone/assets/85580892/ce6c2f37-a1d0-479f-a9c7-8686f9d3526f">
 <img width="988" alt="Screenshot 2023-09-20 at 6 54 30 PM" src="https://github.com/zhihuizhang0625/WordleGame-Clone/assets/85580892/baa02b57-89b3-4f70-9152-8abd71460b27">
 <img width="1112" alt="Screenshot 2023-09-20 at 6 54 43 PM" src="https://github.com/zhihuizhang0625/WordleGame-Clone/assets/85580892/4cd20c5b-a6b8-4a5c-8870-d8b6797b03aa">
-![Uploading Screenshot 2023-09-20 at 6.54.59 PM.png…]()
+<img width="1078" alt="Screenshot 2023-09-20 at 6 55 35 PM" src="https://github.com/zhihuizhang0625/WordleGame-Clone/assets/85580892/b6d62279-f83f-4f46-b0f3-dfe28f2c8039">
